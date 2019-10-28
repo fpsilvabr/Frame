@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/frontend/main/java=UTF-8
+encoding//src/main/java/br/com/conductor/framework/FrameworkElement.java=UTF-8
+encoding//src/main/java/br/com/conductor/framework/FrameworkNavigation.java=UTF-8
+encoding//src/main/resources/properties/config.properties=UTF-8
+encoding//src/test/java/br/com/conductor/runner/RunnerTest.java=UTF-8
+encoding//src/test/java/br/com/conductor/steps/CadastrarClienteSteps.java=UTF-8
+encoding//src/test/java/br/com/conductor/steps/Hooks.java=UTF-8
+encoding//src/test/java/br/com/conductor/steps/LoginSteps.java=UTF-8
+encoding//src/test/java/br/com/conductor/steps/RegisterSteps.java=UTF-8
+encoding//src/test/resources/features/CT1_Login.feature=UTF-8
+encoding//src/test/resources/features/CT2_CadastrarCliente.feature=UTF-8
