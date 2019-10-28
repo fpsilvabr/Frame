@@ -9,7 +9,7 @@ import br.com.frameworkQA.utils.BaseWebPageFactory;
 
 
 /**
- * @author fredi.roldan
+ * @author XXXX
  * @version 1.0
  *
  */
