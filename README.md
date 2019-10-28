@@ -4,5 +4,5 @@
 ![Rest-API](/backend-api/img/PostMan.png)
 
 
-## Execu�ao do Teste Back-end [Rest-API]
+## Execução do Teste Back-end [Rest-API]
 ![Status-200](/backend-api/img/Status-200.png)
